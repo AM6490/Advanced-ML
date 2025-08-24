@@ -1,10 +1,43 @@
-Description:
+This repository includes all assignments completed for the course QMSSGR5074 Advanced Machine Learning at Columbia University
+ 
+Skills learned through the coursework include:
 
-This is a group project with two other classmates that analyzes different features in the world happiness index and how they influence the target feature happiness. 
-We first conducted some EDA and feature engineering to make sure the model didn't encounter any hidden issues that we wouldn't have seen had we not taken a look at the data.
+Supervised Learning Algorithms
 
-We then compared results of several models such as random forest classifiers and neural networks with different layers. 
+Linear & logistic regression
 
-We then used SHAP analysis to determine feature importance. 
+Support Vector Machines (SVMs)
 
-One issue that is important to clarify is that many of the models, especially the NN models, were quite resource intensive, so workarounds should be considered in the future.
+Decision trees, Random Forests, Gradient Boosting (e.g. XGBoost)
+
+Unsupervised Learning
+
+k-Means clustering
+
+Hierarchical clustering
+
+PCA & dimensionality reduction
+
+Natural Language Processing (NLP)
+
+Text preprocessing, TF-IDF
+
+Topic modeling (LDA)
+
+Word embeddings (e.g., Word2Vec, GloVe)
+
+Neural Networks & Deep Learning
+
+Feedforward networks
+
+Convolutional Neural Networks (CNNs)
+
+Recurrent Neural Networks (RNNs, LSTMs)
+
+Model Evaluation & Tuning
+
+Cross-validation, train/test splits
+
+AUC, precision/recall, confusion matrix
+
+Hyperparameter tuning (grid/random search)
